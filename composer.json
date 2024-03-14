@@ -8,7 +8,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Openlegends\\Geminiapp\\": "src/"
+            "OpenLegends\\Geminiapp\\": "src/"
         }
     },
     "authors": [
