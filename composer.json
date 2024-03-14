@@ -1,0 +1,19 @@
+{
+    "name": "openlegends/geminiapp",
+    "description": "Multi-player App for Gemini Protocol",
+    "type": "project",
+    "require": {
+        "openlegends/engine": "dev-main"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Openlegends\\Geminiapp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "OpenLegends"
+        }
+    ]
+}
