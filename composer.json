@@ -3,7 +3,7 @@
     "description": "Multi-player App for Gemini Protocol",
     "type": "project",
     "require": {
-        "openlegends/engine": "dev-main",
+        "openlegends/core": "dev-main",
         "openlegends/asset": "dev-main"
     },
     "license": "MIT",
